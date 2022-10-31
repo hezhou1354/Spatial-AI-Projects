@@ -1,0 +1,4 @@
+DB_USERNAME="postgres"
+DB_PASSWORD="20150515ZhouHe"
+DB_NAME="postgres"
+DB_HOST="localhost"
